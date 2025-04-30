@@ -28,7 +28,7 @@ h1{
 a{
     display: block;
     margin: 26px;
-    background-color: #bc9864;
+    background-color: #000000;
     padding: 15px;
     border-radius: 10px;
     color: #72553c;
@@ -41,7 +41,7 @@ a{
 footer{
     margin-top: 40px;
     font-size:14px;
-    color:#6e583a
+    color:#00ff0d
 }
 
 a:hover{
